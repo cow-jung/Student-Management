@@ -1,5 +1,3 @@
-# Student-Management
-Python 콘솔 기반 학생 성적 관리 프로그램
 # 🎓 Student Management System
 
 Python를 활용하여 만든 학생 성적 관리 프로그램입니다.
